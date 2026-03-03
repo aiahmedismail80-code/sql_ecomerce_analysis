@@ -1,0 +1,501 @@
+customer_id,customer_name,city,country
+1,Customer_1,Cairo,Egypt
+2,Customer_2,Abu Dhabi,UAE
+3,Customer_3,Jeddah,Saudi Arabia
+4,Customer_4,Abu Dhabi,UAE
+5,Customer_5,Kuwait City,Kuwait
+6,Customer_6,Kuwait City,Kuwait
+7,Customer_7,Kuwait City,Kuwait
+8,Customer_8,Doha,Qatar
+9,Customer_9,Riyadh,Saudi Arabia
+10,Customer_10,Abu Dhabi,UAE
+11,Customer_11,Kuwait City,Kuwait
+12,Customer_12,Dubai,UAE
+13,Customer_13,Doha,Qatar
+14,Customer_14,Doha,Qatar
+15,Customer_15,Dubai,UAE
+16,Customer_16,Kuwait City,Kuwait
+17,Customer_17,Jeddah,Saudi Arabia
+18,Customer_18,Riyadh,Saudi Arabia
+19,Customer_19,Abu Dhabi,UAE
+20,Customer_20,Alexandria,Egypt
+21,Customer_21,Dubai,UAE
+22,Customer_22,Dubai,UAE
+23,Customer_23,Dubai,UAE
+24,Customer_24,Dubai,UAE
+25,Customer_25,Doha,Qatar
+26,Customer_26,Riyadh,Saudi Arabia
+27,Customer_27,Doha,Qatar
+28,Customer_28,Dubai,UAE
+29,Customer_29,Riyadh,Saudi Arabia
+30,Customer_30,Kuwait City,Kuwait
+31,Customer_31,Kuwait City,Kuwait
+32,Customer_32,Riyadh,Saudi Arabia
+33,Customer_33,Alexandria,Egypt
+34,Customer_34,Riyadh,Saudi Arabia
+35,Customer_35,Riyadh,Saudi Arabia
+36,Customer_36,Kuwait City,Kuwait
+37,Customer_37,Jeddah,Saudi Arabia
+38,Customer_38,Dubai,UAE
+39,Customer_39,Doha,Qatar
+40,Customer_40,Abu Dhabi,UAE
+41,Customer_41,Cairo,Egypt
+42,Customer_42,Jeddah,Saudi Arabia
+43,Customer_43,Abu Dhabi,UAE
+44,Customer_44,Alexandria,Egypt
+45,Customer_45,Doha,Qatar
+46,Customer_46,Riyadh,Saudi Arabia
+47,Customer_47,Jeddah,Saudi Arabia
+48,Customer_48,Jeddah,Saudi Arabia
+49,Customer_49,Kuwait City,Kuwait
+50,Customer_50,Doha,Qatar
+51,Customer_51,Dubai,UAE
+52,Customer_52,Kuwait City,Kuwait
+53,Customer_53,Riyadh,Saudi Arabia
+54,Customer_54,Doha,Qatar
+55,Customer_55,Doha,Qatar
+56,Customer_56,Cairo,Egypt
+57,Customer_57,Alexandria,Egypt
+58,Customer_58,Alexandria,Egypt
+59,Customer_59,Abu Dhabi,UAE
+60,Customer_60,Kuwait City,Kuwait
+61,Customer_61,Abu Dhabi,UAE
+62,Customer_62,Cairo,Egypt
+63,Customer_63,Doha,Qatar
+64,Customer_64,Alexandria,Egypt
+65,Customer_65,Kuwait City,Kuwait
+66,Customer_66,Dubai,UAE
+67,Customer_67,Kuwait City,Kuwait
+68,Customer_68,Dubai,UAE
+69,Customer_69,Jeddah,Saudi Arabia
+70,Customer_70,Doha,Qatar
+71,Customer_71,Cairo,Egypt
+72,Customer_72,Cairo,Egypt
+73,Customer_73,Riyadh,Saudi Arabia
+74,Customer_74,Dubai,UAE
+75,Customer_75,Riyadh,Saudi Arabia
+76,Customer_76,Riyadh,Saudi Arabia
+77,Customer_77,Doha,Qatar
+78,Customer_78,Alexandria,Egypt
+79,Customer_79,Alexandria,Egypt
+80,Customer_80,Kuwait City,Kuwait
+81,Customer_81,Jeddah,Saudi Arabia
+82,Customer_82,Dubai,UAE
+83,Customer_83,Doha,Qatar
+84,Customer_84,Cairo,Egypt
+85,Customer_85,Riyadh,Saudi Arabia
+86,Customer_86,Doha,Qatar
+87,Customer_87,Dubai,UAE
+88,Customer_88,Kuwait City,Kuwait
+89,Customer_89,Alexandria,Egypt
+90,Customer_90,Riyadh,Saudi Arabia
+91,Customer_91,Doha,Qatar
+92,Customer_92,Kuwait City,Kuwait
+93,Customer_93,Alexandria,Egypt
+94,Customer_94,Doha,Qatar
+95,Customer_95,Alexandria,Egypt
+96,Customer_96,Dubai,UAE
+97,Customer_97,Alexandria,Egypt
+98,Customer_98,Kuwait City,Kuwait
+99,Customer_99,Dubai,UAE
+100,Customer_100,Riyadh,Saudi Arabia
+101,Customer_101,Cairo,Egypt
+102,Customer_102,Cairo,Egypt
+103,Customer_103,Abu Dhabi,UAE
+104,Customer_104,Jeddah,Saudi Arabia
+105,Customer_105,Dubai,UAE
+106,Customer_106,Abu Dhabi,UAE
+107,Customer_107,Abu Dhabi,UAE
+108,Customer_108,Dubai,UAE
+109,Customer_109,Kuwait City,Kuwait
+110,Customer_110,Dubai,UAE
+111,Customer_111,Jeddah,Saudi Arabia
+112,Customer_112,Riyadh,Saudi Arabia
+113,Customer_113,Jeddah,Saudi Arabia
+114,Customer_114,Abu Dhabi,UAE
+115,Customer_115,Cairo,Egypt
+116,Customer_116,Alexandria,Egypt
+117,Customer_117,Jeddah,Saudi Arabia
+118,Customer_118,Abu Dhabi,UAE
+119,Customer_119,Cairo,Egypt
+120,Customer_120,Cairo,Egypt
+121,Customer_121,Jeddah,Saudi Arabia
+122,Customer_122,Cairo,Egypt
+123,Customer_123,Jeddah,Saudi Arabia
+124,Customer_124,Jeddah,Saudi Arabia
+125,Customer_125,Kuwait City,Kuwait
+126,Customer_126,Alexandria,Egypt
+127,Customer_127,Kuwait City,Kuwait
+128,Customer_128,Kuwait City,Kuwait
+129,Customer_129,Abu Dhabi,UAE
+130,Customer_130,Dubai,UAE
+131,Customer_131,Jeddah,Saudi Arabia
+132,Customer_132,Doha,Qatar
+133,Customer_133,Alexandria,Egypt
+134,Customer_134,Doha,Qatar
+135,Customer_135,Riyadh,Saudi Arabia
+136,Customer_136,Jeddah,Saudi Arabia
+137,Customer_137,Abu Dhabi,UAE
+138,Customer_138,Jeddah,Saudi Arabia
+139,Customer_139,Riyadh,Saudi Arabia
+140,Customer_140,Doha,Qatar
+141,Customer_141,Dubai,UAE
+142,Customer_142,Riyadh,Saudi Arabia
+143,Customer_143,Dubai,UAE
+144,Customer_144,Doha,Qatar
+145,Customer_145,Cairo,Egypt
+146,Customer_146,Dubai,UAE
+147,Customer_147,Cairo,Egypt
+148,Customer_148,Kuwait City,Kuwait
+149,Customer_149,Doha,Qatar
+150,Customer_150,Riyadh,Saudi Arabia
+151,Customer_151,Kuwait City,Kuwait
+152,Customer_152,Riyadh,Saudi Arabia
+153,Customer_153,Dubai,UAE
+154,Customer_154,Doha,Qatar
+155,Customer_155,Alexandria,Egypt
+156,Customer_156,Doha,Qatar
+157,Customer_157,Dubai,UAE
+158,Customer_158,Jeddah,Saudi Arabia
+159,Customer_159,Cairo,Egypt
+160,Customer_160,Riyadh,Saudi Arabia
+161,Customer_161,Dubai,UAE
+162,Customer_162,Jeddah,Saudi Arabia
+163,Customer_163,Abu Dhabi,UAE
+164,Customer_164,Abu Dhabi,UAE
+165,Customer_165,Jeddah,Saudi Arabia
+166,Customer_166,Jeddah,Saudi Arabia
+167,Customer_167,Cairo,Egypt
+168,Customer_168,Doha,Qatar
+169,Customer_169,Jeddah,Saudi Arabia
+170,Customer_170,Cairo,Egypt
+171,Customer_171,Dubai,UAE
+172,Customer_172,Dubai,UAE
+173,Customer_173,Riyadh,Saudi Arabia
+174,Customer_174,Kuwait City,Kuwait
+175,Customer_175,Cairo,Egypt
+176,Customer_176,Dubai,UAE
+177,Customer_177,Doha,Qatar
+178,Customer_178,Riyadh,Saudi Arabia
+179,Customer_179,Alexandria,Egypt
+180,Customer_180,Abu Dhabi,UAE
+181,Customer_181,Riyadh,Saudi Arabia
+182,Customer_182,Doha,Qatar
+183,Customer_183,Riyadh,Saudi Arabia
+184,Customer_184,Kuwait City,Kuwait
+185,Customer_185,Abu Dhabi,UAE
+186,Customer_186,Doha,Qatar
+187,Customer_187,Jeddah,Saudi Arabia
+188,Customer_188,Kuwait City,Kuwait
+189,Customer_189,Dubai,UAE
+190,Customer_190,Alexandria,Egypt
+191,Customer_191,Doha,Qatar
+192,Customer_192,Jeddah,Saudi Arabia
+193,Customer_193,Dubai,UAE
+194,Customer_194,Cairo,Egypt
+195,Customer_195,Riyadh,Saudi Arabia
+196,Customer_196,Alexandria,Egypt
+197,Customer_197,Cairo,Egypt
+198,Customer_198,Alexandria,Egypt
+199,Customer_199,Doha,Qatar
+200,Customer_200,Riyadh,Saudi Arabia
+201,Customer_201,Jeddah,Saudi Arabia
+202,Customer_202,Abu Dhabi,UAE
+203,Customer_203,Doha,Qatar
+204,Customer_204,Alexandria,Egypt
+205,Customer_205,Kuwait City,Kuwait
+206,Customer_206,Riyadh,Saudi Arabia
+207,Customer_207,Abu Dhabi,UAE
+208,Customer_208,Dubai,UAE
+209,Customer_209,Abu Dhabi,UAE
+210,Customer_210,Cairo,Egypt
+211,Customer_211,Cairo,Egypt
+212,Customer_212,Cairo,Egypt
+213,Customer_213,Riyadh,Saudi Arabia
+214,Customer_214,Jeddah,Saudi Arabia
+215,Customer_215,Alexandria,Egypt
+216,Customer_216,Jeddah,Saudi Arabia
+217,Customer_217,Alexandria,Egypt
+218,Customer_218,Alexandria,Egypt
+219,Customer_219,Alexandria,Egypt
+220,Customer_220,Abu Dhabi,UAE
+221,Customer_221,Jeddah,Saudi Arabia
+222,Customer_222,Riyadh,Saudi Arabia
+223,Customer_223,Kuwait City,Kuwait
+224,Customer_224,Cairo,Egypt
+225,Customer_225,Abu Dhabi,UAE
+226,Customer_226,Alexandria,Egypt
+227,Customer_227,Dubai,UAE
+228,Customer_228,Doha,Qatar
+229,Customer_229,Abu Dhabi,UAE
+230,Customer_230,Doha,Qatar
+231,Customer_231,Cairo,Egypt
+232,Customer_232,Cairo,Egypt
+233,Customer_233,Alexandria,Egypt
+234,Customer_234,Abu Dhabi,UAE
+235,Customer_235,Doha,Qatar
+236,Customer_236,Abu Dhabi,UAE
+237,Customer_237,Riyadh,Saudi Arabia
+238,Customer_238,Abu Dhabi,UAE
+239,Customer_239,Jeddah,Saudi Arabia
+240,Customer_240,Alexandria,Egypt
+241,Customer_241,Jeddah,Saudi Arabia
+242,Customer_242,Abu Dhabi,UAE
+243,Customer_243,Kuwait City,Kuwait
+244,Customer_244,Jeddah,Saudi Arabia
+245,Customer_245,Abu Dhabi,UAE
+246,Customer_246,Dubai,UAE
+247,Customer_247,Jeddah,Saudi Arabia
+248,Customer_248,Dubai,UAE
+249,Customer_249,Dubai,UAE
+250,Customer_250,Abu Dhabi,UAE
+251,Customer_251,Doha,Qatar
+252,Customer_252,Abu Dhabi,UAE
+253,Customer_253,Dubai,UAE
+254,Customer_254,Riyadh,Saudi Arabia
+255,Customer_255,Riyadh,Saudi Arabia
+256,Customer_256,Doha,Qatar
+257,Customer_257,Cairo,Egypt
+258,Customer_258,Abu Dhabi,UAE
+259,Customer_259,Kuwait City,Kuwait
+260,Customer_260,Cairo,Egypt
+261,Customer_261,Riyadh,Saudi Arabia
+262,Customer_262,Cairo,Egypt
+263,Customer_263,Abu Dhabi,UAE
+264,Customer_264,Doha,Qatar
+265,Customer_265,Doha,Qatar
+266,Customer_266,Jeddah,Saudi Arabia
+267,Customer_267,Jeddah,Saudi Arabia
+268,Customer_268,Kuwait City,Kuwait
+269,Customer_269,Alexandria,Egypt
+270,Customer_270,Abu Dhabi,UAE
+271,Customer_271,Riyadh,Saudi Arabia
+272,Customer_272,Alexandria,Egypt
+273,Customer_273,Dubai,UAE
+274,Customer_274,Dubai,UAE
+275,Customer_275,Dubai,UAE
+276,Customer_276,Jeddah,Saudi Arabia
+277,Customer_277,Alexandria,Egypt
+278,Customer_278,Kuwait City,Kuwait
+279,Customer_279,Doha,Qatar
+280,Customer_280,Alexandria,Egypt
+281,Customer_281,Doha,Qatar
+282,Customer_282,Abu Dhabi,UAE
+283,Customer_283,Abu Dhabi,UAE
+284,Customer_284,Alexandria,Egypt
+285,Customer_285,Kuwait City,Kuwait
+286,Customer_286,Abu Dhabi,UAE
+287,Customer_287,Jeddah,Saudi Arabia
+288,Customer_288,Riyadh,Saudi Arabia
+289,Customer_289,Kuwait City,Kuwait
+290,Customer_290,Alexandria,Egypt
+291,Customer_291,Jeddah,Saudi Arabia
+292,Customer_292,Cairo,Egypt
+293,Customer_293,Riyadh,Saudi Arabia
+294,Customer_294,Jeddah,Saudi Arabia
+295,Customer_295,Riyadh,Saudi Arabia
+296,Customer_296,Riyadh,Saudi Arabia
+297,Customer_297,Alexandria,Egypt
+298,Customer_298,Abu Dhabi,UAE
+299,Customer_299,Jeddah,Saudi Arabia
+300,Customer_300,Abu Dhabi,UAE
+301,Customer_301,Kuwait City,Kuwait
+302,Customer_302,Abu Dhabi,UAE
+303,Customer_303,Alexandria,Egypt
+304,Customer_304,Riyadh,Saudi Arabia
+305,Customer_305,Doha,Qatar
+306,Customer_306,Jeddah,Saudi Arabia
+307,Customer_307,Dubai,UAE
+308,Customer_308,Alexandria,Egypt
+309,Customer_309,Cairo,Egypt
+310,Customer_310,Alexandria,Egypt
+311,Customer_311,Jeddah,Saudi Arabia
+312,Customer_312,Riyadh,Saudi Arabia
+313,Customer_313,Alexandria,Egypt
+314,Customer_314,Abu Dhabi,UAE
+315,Customer_315,Abu Dhabi,UAE
+316,Customer_316,Riyadh,Saudi Arabia
+317,Customer_317,Riyadh,Saudi Arabia
+318,Customer_318,Dubai,UAE
+319,Customer_319,Riyadh,Saudi Arabia
+320,Customer_320,Doha,Qatar
+321,Customer_321,Abu Dhabi,UAE
+322,Customer_322,Jeddah,Saudi Arabia
+323,Customer_323,Abu Dhabi,UAE
+324,Customer_324,Abu Dhabi,UAE
+325,Customer_325,Dubai,UAE
+326,Customer_326,Dubai,UAE
+327,Customer_327,Jeddah,Saudi Arabia
+328,Customer_328,Alexandria,Egypt
+329,Customer_329,Kuwait City,Kuwait
+330,Customer_330,Kuwait City,Kuwait
+331,Customer_331,Cairo,Egypt
+332,Customer_332,Abu Dhabi,UAE
+333,Customer_333,Alexandria,Egypt
+334,Customer_334,Abu Dhabi,UAE
+335,Customer_335,Cairo,Egypt
+336,Customer_336,Cairo,Egypt
+337,Customer_337,Cairo,Egypt
+338,Customer_338,Cairo,Egypt
+339,Customer_339,Alexandria,Egypt
+340,Customer_340,Jeddah,Saudi Arabia
+341,Customer_341,Abu Dhabi,UAE
+342,Customer_342,Jeddah,Saudi Arabia
+343,Customer_343,Cairo,Egypt
+344,Customer_344,Riyadh,Saudi Arabia
+345,Customer_345,Cairo,Egypt
+346,Customer_346,Dubai,UAE
+347,Customer_347,Alexandria,Egypt
+348,Customer_348,Riyadh,Saudi Arabia
+349,Customer_349,Cairo,Egypt
+350,Customer_350,Jeddah,Saudi Arabia
+351,Customer_351,Doha,Qatar
+352,Customer_352,Cairo,Egypt
+353,Customer_353,Dubai,UAE
+354,Customer_354,Riyadh,Saudi Arabia
+355,Customer_355,Jeddah,Saudi Arabia
+356,Customer_356,Abu Dhabi,UAE
+357,Customer_357,Kuwait City,Kuwait
+358,Customer_358,Doha,Qatar
+359,Customer_359,Jeddah,Saudi Arabia
+360,Customer_360,Kuwait City,Kuwait
+361,Customer_361,Kuwait City,Kuwait
+362,Customer_362,Dubai,UAE
+363,Customer_363,Doha,Qatar
+364,Customer_364,Alexandria,Egypt
+365,Customer_365,Cairo,Egypt
+366,Customer_366,Jeddah,Saudi Arabia
+367,Customer_367,Kuwait City,Kuwait
+368,Customer_368,Dubai,UAE
+369,Customer_369,Doha,Qatar
+370,Customer_370,Dubai,UAE
+371,Customer_371,Dubai,UAE
+372,Customer_372,Alexandria,Egypt
+373,Customer_373,Cairo,Egypt
+374,Customer_374,Cairo,Egypt
+375,Customer_375,Cairo,Egypt
+376,Customer_376,Jeddah,Saudi Arabia
+377,Customer_377,Jeddah,Saudi Arabia
+378,Customer_378,Doha,Qatar
+379,Customer_379,Doha,Qatar
+380,Customer_380,Cairo,Egypt
+381,Customer_381,Abu Dhabi,UAE
+382,Customer_382,Riyadh,Saudi Arabia
+383,Customer_383,Kuwait City,Kuwait
+384,Customer_384,Dubai,UAE
+385,Customer_385,Cairo,Egypt
+386,Customer_386,Alexandria,Egypt
+387,Customer_387,Kuwait City,Kuwait
+388,Customer_388,Riyadh,Saudi Arabia
+389,Customer_389,Riyadh,Saudi Arabia
+390,Customer_390,Alexandria,Egypt
+391,Customer_391,Kuwait City,Kuwait
+392,Customer_392,Kuwait City,Kuwait
+393,Customer_393,Riyadh,Saudi Arabia
+394,Customer_394,Doha,Qatar
+395,Customer_395,Alexandria,Egypt
+396,Customer_396,Jeddah,Saudi Arabia
+397,Customer_397,Riyadh,Saudi Arabia
+398,Customer_398,Dubai,UAE
+399,Customer_399,Abu Dhabi,UAE
+400,Customer_400,Alexandria,Egypt
+401,Customer_401,Cairo,Egypt
+402,Customer_402,Riyadh,Saudi Arabia
+403,Customer_403,Jeddah,Saudi Arabia
+404,Customer_404,Jeddah,Saudi Arabia
+405,Customer_405,Jeddah,Saudi Arabia
+406,Customer_406,Alexandria,Egypt
+407,Customer_407,Cairo,Egypt
+408,Customer_408,Kuwait City,Kuwait
+409,Customer_409,Abu Dhabi,UAE
+410,Customer_410,Abu Dhabi,UAE
+411,Customer_411,Doha,Qatar
+412,Customer_412,Cairo,Egypt
+413,Customer_413,Cairo,Egypt
+414,Customer_414,Jeddah,Saudi Arabia
+415,Customer_415,Doha,Qatar
+416,Customer_416,Riyadh,Saudi Arabia
+417,Customer_417,Dubai,UAE
+418,Customer_418,Kuwait City,Kuwait
+419,Customer_419,Doha,Qatar
+420,Customer_420,Alexandria,Egypt
+421,Customer_421,Doha,Qatar
+422,Customer_422,Cairo,Egypt
+423,Customer_423,Dubai,UAE
+424,Customer_424,Abu Dhabi,UAE
+425,Customer_425,Jeddah,Saudi Arabia
+426,Customer_426,Abu Dhabi,UAE
+427,Customer_427,Jeddah,Saudi Arabia
+428,Customer_428,Abu Dhabi,UAE
+429,Customer_429,Cairo,Egypt
+430,Customer_430,Abu Dhabi,UAE
+431,Customer_431,Kuwait City,Kuwait
+432,Customer_432,Riyadh,Saudi Arabia
+433,Customer_433,Doha,Qatar
+434,Customer_434,Doha,Qatar
+435,Customer_435,Doha,Qatar
+436,Customer_436,Cairo,Egypt
+437,Customer_437,Alexandria,Egypt
+438,Customer_438,Kuwait City,Kuwait
+439,Customer_439,Cairo,Egypt
+440,Customer_440,Kuwait City,Kuwait
+441,Customer_441,Riyadh,Saudi Arabia
+442,Customer_442,Abu Dhabi,UAE
+443,Customer_443,Doha,Qatar
+444,Customer_444,Doha,Qatar
+445,Customer_445,Abu Dhabi,UAE
+446,Customer_446,Jeddah,Saudi Arabia
+447,Customer_447,Jeddah,Saudi Arabia
+448,Customer_448,Riyadh,Saudi Arabia
+449,Customer_449,Doha,Qatar
+450,Customer_450,Dubai,UAE
+451,Customer_451,Riyadh,Saudi Arabia
+452,Customer_452,Kuwait City,Kuwait
+453,Customer_453,Dubai,UAE
+454,Customer_454,Dubai,UAE
+455,Customer_455,Riyadh,Saudi Arabia
+456,Customer_456,Jeddah,Saudi Arabia
+457,Customer_457,Riyadh,Saudi Arabia
+458,Customer_458,Cairo,Egypt
+459,Customer_459,Jeddah,Saudi Arabia
+460,Customer_460,Cairo,Egypt
+461,Customer_461,Riyadh,Saudi Arabia
+462,Customer_462,Jeddah,Saudi Arabia
+463,Customer_463,Jeddah,Saudi Arabia
+464,Customer_464,Jeddah,Saudi Arabia
+465,Customer_465,Kuwait City,Kuwait
+466,Customer_466,Cairo,Egypt
+467,Customer_467,Alexandria,Egypt
+468,Customer_468,Kuwait City,Kuwait
+469,Customer_469,Doha,Qatar
+470,Customer_470,Abu Dhabi,UAE
+471,Customer_471,Riyadh,Saudi Arabia
+472,Customer_472,Doha,Qatar
+473,Customer_473,Riyadh,Saudi Arabia
+474,Customer_474,Jeddah,Saudi Arabia
+475,Customer_475,Abu Dhabi,UAE
+476,Customer_476,Dubai,UAE
+477,Customer_477,Abu Dhabi,UAE
+478,Customer_478,Dubai,UAE
+479,Customer_479,Jeddah,Saudi Arabia
+480,Customer_480,Cairo,Egypt
+481,Customer_481,Abu Dhabi,UAE
+482,Customer_482,Alexandria,Egypt
+483,Customer_483,Jeddah,Saudi Arabia
+484,Customer_484,Doha,Qatar
+485,Customer_485,Alexandria,Egypt
+486,Customer_486,Alexandria,Egypt
+487,Customer_487,Dubai,UAE
+488,Customer_488,Abu Dhabi,UAE
+489,Customer_489,Kuwait City,Kuwait
+490,Customer_490,Kuwait City,Kuwait
+491,Customer_491,Alexandria,Egypt
+492,Customer_492,Jeddah,Saudi Arabia
+493,Customer_493,Doha,Qatar
+494,Customer_494,Alexandria,Egypt
+495,Customer_495,Kuwait City,Kuwait
+496,Customer_496,Abu Dhabi,UAE
+497,Customer_497,Doha,Qatar
+498,Customer_498,Doha,Qatar
+499,Customer_499,Riyadh,Saudi Arabia
+500,Customer_500,Dubai,UAE
